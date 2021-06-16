@@ -1,7 +1,10 @@
 # snake_game
-A different take on the classic game of snake pretty much completed made with GO and RAYLIB for graphics. 
-Arrow keys move / Escape / Enter / Space to navigate menus
-
+A version of the classic Snake game<br/>
+<ul>ARROW keys move</ul>
+<ul>SPACE / ENTER keys interact with menus</ul>
+<ul>ESCAPE key options menu</ul>
+<ul>END key closes the game window</ul>
+<br/>
 View the project page here https://nicholasimon.itch.io/snyk
 <br/>
 Or a gameplay video here https://www.youtube.com/watch?v=ovN4NAODOEw
