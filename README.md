@@ -1,9 +1,9 @@
 # snake_game
 A version of the classic Snake game<br/>
-<ul>ARROW keys move</ul>
-<ul>SPACE / ENTER keys interact with menus</ul>
-<ul>ESCAPE key options menu</ul>
-<ul>END key closes the game window</ul>
+<ul>&bull; ARROW keys move</ul>
+<ul>&bull; SPACE / ENTER keys interact with menus</ul>
+<ul>&bull; ESCAPE key options menu</ul>
+<ul>&bull; END key closes the game window</ul>
 <br/>
 View the project page here https://nicholasimon.itch.io/snyk
 <br/>
